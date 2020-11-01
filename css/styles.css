@@ -1,0 +1,50 @@
+body {
+  background-color: white;
+  margin: 15px;
+  text-align: center;
+}
+
+hr {
+  border-style: none dashed;
+  border-color: black;
+  border-bottom-style: double;
+  border-top-style: dotted;
+  border-width: 5px;
+  margin-top: 0px;
+  width: 95%;
+}
+
+.potato {
+  border-color: red;
+}
+
+#title {
+  color: darkred;
+}
+#potato {
+  color: brown;
+}
+.break {
+  width: 95%;
+  background-color: gold;
+  border: solid;
+  border-width: 1px 3px 5px 3px;
+  padding: 5px;
+  margin: 15px;
+}
+
+
+.container {
+  text-align: center;
+  border: 5px;
+  border-color: black;
+}
+.main {
+  width: 50%;
+  margin: 15px auto 150px auto;
+  text-align: center;
+}
+.card {
+  text-align: center;
+  margin: auto;
+}
